@@ -1,0 +1,7 @@
+Pages: 6
+Page 0: text=1389 imgs=1
+Page 1: text=1365 imgs=0
+Page 2: text=1206 imgs=0
+Page 3: text=1113 imgs=0
+Page 4: text=930 imgs=1
+Page 5: text=1058 imgs=0
